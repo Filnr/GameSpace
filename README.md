@@ -31,4 +31,4 @@ A full-stack project to practice backend concepts, featuring a platform with new
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Filnr/GameSpace.git](https://github.com/Filnr/GameSpace.git)
+   git clone https://github.com/Filnr/GameSpace.git
